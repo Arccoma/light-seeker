@@ -7,3 +7,6 @@
 # modify 3 @ DevPC
 # not commit & push yet.
 # modify 4 @ DevPC. OK. one story is complite. commit. and push.
+
+# -- commit several times, and push once.
+# 1 modify & commit @ DevPC
