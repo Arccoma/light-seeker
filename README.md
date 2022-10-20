@@ -12,3 +12,4 @@
 # 1 modify & commit @ DevPC
 # 2 modify & commit @ DevPC
 # 3 modify & commit @ DevPC. not push yet. locla is ahead of remote by 3 commits
+# OK. some story is complite. It's time to push to remote.
